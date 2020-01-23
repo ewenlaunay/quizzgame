@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - quizzgame@localhost" uuid="ecb120e0-1045-45b2-8756-fcf1e5e50aa5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:8889/quizzgame</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="quizzgame@localhost" uuid="beb904c1-1033-4fc2-ba94-5b97e7efcaa4">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:8889/quizzgame</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="quizzgame@localhost [2]" uuid="696112c8-01d7-4ee7-97af-1e06fad64a24">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:8889/quizzgame</jdbc-url>
+    </data-source>
+  </component>
+</project>
